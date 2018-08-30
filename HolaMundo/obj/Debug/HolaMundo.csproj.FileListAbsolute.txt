@@ -1,0 +1,6 @@
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+\\pascal\Publico\Priscilla Mena Monge\practicas\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
